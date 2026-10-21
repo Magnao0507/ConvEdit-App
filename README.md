@@ -69,7 +69,7 @@ pyinstaller --noconfirm --onefile --windowed --name "Convedit" "principal.py"
 ```
 
 O arquivo final vai aparecer dentro da pasta `dist/`.
-
+ 
 ---
 
 ## Licença
