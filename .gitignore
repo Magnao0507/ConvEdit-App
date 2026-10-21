@@ -1,0 +1,33 @@
+# Python bytecode e caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Empacotamento e compilação (PyInstaller)
+build/
+dist/
+*.spec
+*.manifest
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários do SO
+Thumbs.db
+Desktop.ini
+.DS_Store
